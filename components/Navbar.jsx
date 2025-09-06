@@ -46,7 +46,7 @@ export default function Navbar() {
                 alt="Shree Riddhi Siddhi Logo"
                 width={140}
                 height={48}
-                className="hover:scale-105 transition-transform duration-300 cursor-pointer w-[120px] h-[40px] md:w-[140px] md:h-[48px]"
+                className="hover:scale-105 transition-transform duration-300 cursor-pointer w-[120px] h-[48px] md:w-[140px] md:h-[124px] object-contain"
               />
             </Link>
           </div>
