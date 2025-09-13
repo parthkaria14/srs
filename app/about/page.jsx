@@ -26,7 +26,7 @@ export default function About() {
                   Overview
                 </h1>
                 <p className="text-base sm:text-lg lg:text-xl leading-relaxed mb-4 sm:mb-6 animate-fade-in delay-300">
-                  At Sumiran Group, we don't just build structures – we shape
+                  At Shree Riddhi Siddhi Group, we don't just build structures – we shape
                   lifestyles. With a legacy of delivering consistently excellent
                   homes that blend thoughtful design, quality construction, and
                   value engineering, we create Vastu-compliant spaces.
